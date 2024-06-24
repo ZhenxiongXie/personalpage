@@ -1,23 +1,23 @@
 ---
 # Display name
-title: 吳健雄
+title: Zhenxiong Xie (谢振雄)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhenxiong
+last_name: Xie
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,27 +28,24 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'zhenxiong.xie@kcl.ac.uk'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ZhenxiongXie
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+  - area: PhD Physics
+    institution: King's College London
+    date_start: 2020-10-01
+    date_end: 2024-09-30
+    summary: Thesis on both the Frequentist and Bayesian approaches to the joint analysis between the atmospheric and accelerator neutrinos, which includes both the first fit of the joint Super-Kamiokande atmopheric and T2K accelerator neutrino data, as well as the joint fit of atmopheric and accelerator neutrinos in Hyper-Kamiokande.
+    
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
